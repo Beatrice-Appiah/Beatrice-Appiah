@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Backend Development with HACSA Foundation
 - 💞️ I’m looking to collaborate with people on Backend development Projects
 - 📫 You can reach me at: beatricenaameryeaappiah@gmail.com
-- ⚡ Fun fact: I love music, singing and jollof
+- ⚡ Fun fact: I love music, singing eating
