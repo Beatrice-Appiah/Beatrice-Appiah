@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Beatrice Appiah Naa Meryea
+- 👋 Hi, I’m Beatrice Appiah Naa Meryea
 - 👀 I’m interested in learning more in the world of technology
 - 🌱 I’m currently learning Backend Development with HACSA Foundation
-- 💞️ I’m looking to collaborate with people on bakend development
-- 📫 You can reach me at beatricenaameryeaappiah@gmail.com
-- 😄 I love what I do
+- 💞️ I’m looking to collaborate with people on Backend development Projects
+- 📫 You can reach me at: beatricenaameryeaappiah@gmail.com
 - ⚡ Fun fact: I love music, singing and jollof
-- 
