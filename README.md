@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Beatrice Appiah Naa Meryea
 - 👀 I’m interested in learning more in the world of technology
-- 🌱 I’m currently learning Backend Development with HACSA Foundation
+- 🌱 I completed a 3-month intensive learning in Backend Development with HACSA Foundation
 - 💞️ I’m looking to collaborate with people on Backend development Projects
 - 📫 You can reach me at: beatricenaameryeaappiah@gmail.com
 - ⚡ Fun fact: I love music, singing and eating
+- I'm currently a student of the Power Learn Project scheme,Kenya.
